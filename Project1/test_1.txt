@@ -1,0 +1,1477 @@
+additive_exp  !  173
+additive_exp  &  173
+additive_exp  (  173
+additive_exp  *  173
+additive_exp  +  173
+additive_exp  ++  173
+additive_exp  -  173
+additive_exp  --  173
+additive_exp  char_const  173
+additive_exp  float_const  173
+additive_exp  id  173
+additive_exp  int_const  173
+additive_exp  sizeof  173
+additive_exp  string  173
+additive_exp  ~  173
+additive_exp_tmpvar  !=  175
+additive_exp_tmpvar  &  175
+additive_exp_tmpvar  &&  175
+additive_exp_tmpvar  )  175
+additive_exp_tmpvar  +  174
+additive_exp_tmpvar  ,  175
+additive_exp_tmpvar  -  174
+additive_exp_tmpvar  :  175
+additive_exp_tmpvar  ;  175
+additive_exp_tmpvar  <  175
+additive_exp_tmpvar  <<  175
+additive_exp_tmpvar  <=  175
+additive_exp_tmpvar  ==  175
+additive_exp_tmpvar  >  175
+additive_exp_tmpvar  >=  175
+additive_exp_tmpvar  >>  175
+additive_exp_tmpvar  ?  175
+additive_exp_tmpvar  ]  175
+additive_exp_tmpvar  ^  175
+additive_exp_tmpvar  |  175
+additive_exp_tmpvar  ||  175
+additive_exp_tmpvar  }  175
+and_exp  !  153
+and_exp  &  153
+and_exp  (  153
+and_exp  *  153
+and_exp  +  153
+and_exp  ++  153
+and_exp  -  153
+and_exp  --  153
+and_exp  char_const  153
+and_exp  float_const  153
+and_exp  id  153
+and_exp  int_const  153
+and_exp  sizeof  153
+and_exp  string  153
+and_exp  ~  153
+and_exp_tmpvar  &  154
+and_exp_tmpvar  &&  155
+and_exp_tmpvar  )  155
+and_exp_tmpvar  ,  155
+and_exp_tmpvar  :  155
+and_exp_tmpvar  ;  155
+and_exp_tmpvar  ?  155
+and_exp_tmpvar  ]  155
+and_exp_tmpvar  ^  155
+and_exp_tmpvar  |  155
+and_exp_tmpvar  ||  155
+and_exp_tmpvar  }  155
+argument_exp_list  !  212
+argument_exp_list  &  212
+argument_exp_list  (  212
+argument_exp_list  *  212
+argument_exp_list  +  212
+argument_exp_list  ++  212
+argument_exp_list  -  212
+argument_exp_list  --  212
+argument_exp_list  char_const  212
+argument_exp_list  float_const  212
+argument_exp_list  id  212
+argument_exp_list  int_const  212
+argument_exp_list  sizeof  212
+argument_exp_list  string  212
+argument_exp_list  ~  212
+argument_exp_list_tmpvar  )  214
+argument_exp_list_tmpvar  ,  213
+assignment_exp  !  122
+assignment_exp  &  122
+assignment_exp  (  122
+assignment_exp  *  122
+assignment_exp  +  122
+assignment_exp  ++  122
+assignment_exp  -  122
+assignment_exp  --  122
+assignment_exp  char_const  122
+assignment_exp  float_const  122
+assignment_exp  id  122
+assignment_exp  int_const  122
+assignment_exp  sizeof  122
+assignment_exp  string  122
+assignment_exp  ~  122
+assignment_operator  %=  129
+assignment_operator  &=  134
+assignment_operator  *=  127
+assignment_operator  +=  130
+assignment_operator  -=  131
+assignment_operator  /=  128
+assignment_operator  <<=  132
+assignment_operator  =  126
+assignment_operator  >>=  133
+assignment_operator  ^=  135
+assignment_operator  |=  136
+cast_exp  !  184
+cast_exp  &  184
+cast_exp  (  184
+cast_exp  *  184
+cast_exp  +  184
+cast_exp  ++  184
+cast_exp  -  184
+cast_exp  --  184
+cast_exp  char_const  184
+cast_exp  float_const  184
+cast_exp  id  184
+cast_exp  int_const  184
+cast_exp  sizeof  184
+cast_exp  string  184
+cast_exp  ~  184
+compound_stat  {  94
+conditional_exp  !  137
+conditional_exp  &  137
+conditional_exp  (  137
+conditional_exp  *  137
+conditional_exp  +  137
+conditional_exp  ++  137
+conditional_exp  -  137
+conditional_exp  --  137
+conditional_exp  char_const  137
+conditional_exp  float_const  137
+conditional_exp  id  137
+conditional_exp  int_const  137
+conditional_exp  sizeof  137
+conditional_exp  string  137
+conditional_exp  ~  137
+const_exp  !  140
+const_exp  &  140
+const_exp  (  140
+const_exp  *  140
+const_exp  +  140
+const_exp  ++  140
+const_exp  -  140
+const_exp  --  140
+const_exp  char_const  140
+const_exp  float_const  140
+const_exp  id  140
+const_exp  int_const  140
+const_exp  sizeof  140
+const_exp  string  140
+const_exp  ~  140
+const_prod  char_const  216
+const_prod  float_const  217
+const_prod  int_const  215
+decimal  (  79
+decimal  <<  80
+decl  char  12
+decl  double  12
+decl  float  12
+decl  int  12
+decl  long  12
+decl  short  12
+decl  void  12
+decl_list  char  15
+decl_list  double  15
+decl_list  float  15
+decl_list  int  15
+decl_list  long  15
+decl_list  short  15
+decl_list  void  15
+decl_list_tmpvar  !  17
+decl_list_tmpvar  &  17
+decl_list_tmpvar  (  17
+decl_list_tmpvar  *  17
+decl_list_tmpvar  +  17
+decl_list_tmpvar  ++  17
+decl_list_tmpvar  -  17
+decl_list_tmpvar  --  17
+decl_list_tmpvar  ;  17
+decl_list_tmpvar  break  17
+decl_list_tmpvar  case  17
+decl_list_tmpvar  char  16
+decl_list_tmpvar  char_const  17
+decl_list_tmpvar  cin  17
+decl_list_tmpvar  continue  17
+decl_list_tmpvar  cout  17
+decl_list_tmpvar  default  17
+decl_list_tmpvar  do  17
+decl_list_tmpvar  double  16
+decl_list_tmpvar  float  16
+decl_list_tmpvar  float_const  17
+decl_list_tmpvar  for  17
+decl_list_tmpvar  goto  17
+decl_list_tmpvar  id  17
+decl_list_tmpvar  if  17
+decl_list_tmpvar  int  16
+decl_list_tmpvar  int_const  17
+decl_list_tmpvar  long  16
+decl_list_tmpvar  return  17
+decl_list_tmpvar  short  16
+decl_list_tmpvar  sizeof  17
+decl_list_tmpvar  string  17
+decl_list_tmpvar  switch  17
+decl_list_tmpvar  void  16
+decl_list_tmpvar  while  17
+decl_list_tmpvar  {  17
+decl_list_tmpvar  }  17
+decl_list_tmpvar  ~  17
+declarator  (  34
+declarator  id  34
+direct_declarator  (  36
+direct_declarator  id  35
+direct_declarator_tmpvar  (  37
+direct_declarator_tmpvar  )  38
+direct_declarator_tmpvar  ,  38
+direct_declarator_tmpvar  ;  38
+direct_declarator_tmpvar  =  38
+direct_declarator_tmpvar  [  37
+direct_declarator_tmpvar  char  38
+direct_declarator_tmpvar  double  38
+direct_declarator_tmpvar  float  38
+direct_declarator_tmpvar  int  38
+direct_declarator_tmpvar  long  38
+direct_declarator_tmpvar  short  38
+direct_declarator_tmpvar  void  38
+direct_declarator_tmpvar  {  38
+equality_exp  !  156
+equality_exp  &  156
+equality_exp  (  156
+equality_exp  *  156
+equality_exp  +  156
+equality_exp  ++  156
+equality_exp  -  156
+equality_exp  --  156
+equality_exp  char_const  156
+equality_exp  float_const  156
+equality_exp  id  156
+equality_exp  int_const  156
+equality_exp  sizeof  156
+equality_exp  string  156
+equality_exp  ~  156
+equality_exp_tmpvar  !=  157
+equality_exp_tmpvar  &  158
+equality_exp_tmpvar  &&  158
+equality_exp_tmpvar  )  158
+equality_exp_tmpvar  ,  158
+equality_exp_tmpvar  :  158
+equality_exp_tmpvar  ;  158
+equality_exp_tmpvar  ==  157
+equality_exp_tmpvar  ?  158
+equality_exp_tmpvar  ]  158
+equality_exp_tmpvar  ^  158
+equality_exp_tmpvar  |  158
+equality_exp_tmpvar  ||  158
+equality_exp_tmpvar  }  158
+exclusive_or_exp  !  150
+exclusive_or_exp  &  150
+exclusive_or_exp  (  150
+exclusive_or_exp  *  150
+exclusive_or_exp  +  150
+exclusive_or_exp  ++  150
+exclusive_or_exp  -  150
+exclusive_or_exp  --  150
+exclusive_or_exp  char_const  150
+exclusive_or_exp  float_const  150
+exclusive_or_exp  id  150
+exclusive_or_exp  int_const  150
+exclusive_or_exp  sizeof  150
+exclusive_or_exp  string  150
+exclusive_or_exp  ~  150
+exclusive_or_exp_tmpvar  &&  152
+exclusive_or_exp_tmpvar  )  152
+exclusive_or_exp_tmpvar  ,  152
+exclusive_or_exp_tmpvar  :  152
+exclusive_or_exp_tmpvar  ;  152
+exclusive_or_exp_tmpvar  ?  152
+exclusive_or_exp_tmpvar  ]  152
+exclusive_or_exp_tmpvar  ^  151
+exclusive_or_exp_tmpvar  |  152
+exclusive_or_exp_tmpvar  ||  152
+exclusive_or_exp_tmpvar  }  152
+exp  !  119
+exp  &  119
+exp  (  119
+exp  *  119
+exp  +  119
+exp  ++  119
+exp  -  119
+exp  --  119
+exp  char_const  119
+exp  float_const  119
+exp  id  119
+exp  int_const  119
+exp  sizeof  119
+exp  string  119
+exp  ~  119
+exp_stat  !  92
+exp_stat  &  92
+exp_stat  (  92
+exp_stat  *  92
+exp_stat  +  92
+exp_stat  ++  92
+exp_stat  -  92
+exp_stat  --  92
+exp_stat  char_const  92
+exp_stat  float_const  92
+exp_stat  id  92
+exp_stat  int_const  92
+exp_stat  sizeof  92
+exp_stat  string  92
+exp_stat  ~  92
+exp_tmpvar  )  121
+exp_tmpvar  ,  120
+exp_tmpvar  :  121
+exp_tmpvar  ;  121
+exp_tmpvar  ]  121
+external_decl  (  5
+external_decl  char  4
+external_decl  double  4
+external_decl  float  4
+external_decl  id  5
+external_decl  int  4
+external_decl  long  4
+external_decl  short  4
+external_decl  void  4
+id_list  id  53
+id_list_tmpvar  )  55
+id_list_tmpvar  ,  54
+inclusive_or_exp  !  147
+inclusive_or_exp  &  147
+inclusive_or_exp  (  147
+inclusive_or_exp  *  147
+inclusive_or_exp  +  147
+inclusive_or_exp  ++  147
+inclusive_or_exp  -  147
+inclusive_or_exp  --  147
+inclusive_or_exp  char_const  147
+inclusive_or_exp  float_const  147
+inclusive_or_exp  id  147
+inclusive_or_exp  int_const  147
+inclusive_or_exp  sizeof  147
+inclusive_or_exp  string  147
+inclusive_or_exp  ~  147
+inclusive_or_exp_tmpvar  &&  149
+inclusive_or_exp_tmpvar  )  149
+inclusive_or_exp_tmpvar  ,  149
+inclusive_or_exp_tmpvar  :  149
+inclusive_or_exp_tmpvar  ;  149
+inclusive_or_exp_tmpvar  ?  149
+inclusive_or_exp_tmpvar  ]  149
+inclusive_or_exp_tmpvar  |  148
+inclusive_or_exp_tmpvar  ||  149
+inclusive_or_exp_tmpvar  }  149
+init_declarator  (  28
+init_declarator  id  28
+init_declarator_list  (  25
+init_declarator_list  id  25
+init_declarator_list_tmpvar  ,  26
+init_declarator_list_tmpvar  ;  27
+initializer  !  56
+initializer  &  56
+initializer  (  56
+initializer  *  56
+initializer  +  56
+initializer  ++  56
+initializer  -  56
+initializer  --  56
+initializer  char_const  56
+initializer  float_const  56
+initializer  id  56
+initializer  int_const  56
+initializer  sizeof  56
+initializer  string  56
+initializer  {  57
+initializer  ~  56
+initializer_list  !  58
+initializer_list  &  58
+initializer_list  (  58
+initializer_list  *  58
+initializer_list  +  58
+initializer_list  ++  58
+initializer_list  -  58
+initializer_list  --  58
+initializer_list  char_const  58
+initializer_list  float_const  58
+initializer_list  id  58
+initializer_list  int_const  58
+initializer_list  sizeof  58
+initializer_list  string  58
+initializer_list  {  58
+initializer_list  ~  58
+initializer_list_tmpvar  ,  59
+initializer_list_tmpvar  }  60
+iteration_stat  do  108
+iteration_stat  for  109
+iteration_stat  while  107
+jump_stat  break  115
+jump_stat  continue  114
+jump_stat  goto  113
+jump_stat  return  116
+labeled_stat  case  90
+labeled_stat  default  91
+labeled_stat  id  89
+logical_and_exp  !  144
+logical_and_exp  &  144
+logical_and_exp  (  144
+logical_and_exp  *  144
+logical_and_exp  +  144
+logical_and_exp  ++  144
+logical_and_exp  -  144
+logical_and_exp  --  144
+logical_and_exp  char_const  144
+logical_and_exp  float_const  144
+logical_and_exp  id  144
+logical_and_exp  int_const  144
+logical_and_exp  sizeof  144
+logical_and_exp  string  144
+logical_and_exp  ~  144
+logical_and_exp_tmpvar  &&  145
+logical_and_exp_tmpvar  )  146
+logical_and_exp_tmpvar  ,  146
+logical_and_exp_tmpvar  :  146
+logical_and_exp_tmpvar  ;  146
+logical_and_exp_tmpvar  ?  146
+logical_and_exp_tmpvar  ]  146
+logical_and_exp_tmpvar  ||  146
+logical_and_exp_tmpvar  }  146
+logical_or_exp  !  141
+logical_or_exp  &  141
+logical_or_exp  (  141
+logical_or_exp  *  141
+logical_or_exp  +  141
+logical_or_exp  ++  141
+logical_or_exp  -  141
+logical_or_exp  --  141
+logical_or_exp  char_const  141
+logical_or_exp  float_const  141
+logical_or_exp  id  141
+logical_or_exp  int_const  141
+logical_or_exp  sizeof  141
+logical_or_exp  string  141
+logical_or_exp  ~  141
+logical_or_exp_tmpvar  )  143
+logical_or_exp_tmpvar  ,  143
+logical_or_exp_tmpvar  :  143
+logical_or_exp_tmpvar  ;  143
+logical_or_exp_tmpvar  ?  143
+logical_or_exp_tmpvar  ]  143
+logical_or_exp_tmpvar  ||  142
+logical_or_exp_tmpvar  }  143
+mult_exp  !  178
+mult_exp  &  178
+mult_exp  (  178
+mult_exp  *  178
+mult_exp  +  178
+mult_exp  ++  178
+mult_exp  -  178
+mult_exp  --  178
+mult_exp  char_const  178
+mult_exp  float_const  178
+mult_exp  id  178
+mult_exp  int_const  178
+mult_exp  sizeof  178
+mult_exp  string  178
+mult_exp  ~  178
+mult_exp_tmpvar  !=  180
+mult_exp_tmpvar  %  179
+mult_exp_tmpvar  &  180
+mult_exp_tmpvar  &&  180
+mult_exp_tmpvar  )  180
+mult_exp_tmpvar  *  179
+mult_exp_tmpvar  +  180
+mult_exp_tmpvar  ,  180
+mult_exp_tmpvar  -  180
+mult_exp_tmpvar  /  179
+mult_exp_tmpvar  :  180
+mult_exp_tmpvar  ;  180
+mult_exp_tmpvar  <  180
+mult_exp_tmpvar  <<  180
+mult_exp_tmpvar  <=  180
+mult_exp_tmpvar  ==  180
+mult_exp_tmpvar  >  180
+mult_exp_tmpvar  >=  180
+mult_exp_tmpvar  >>  180
+mult_exp_tmpvar  ?  180
+mult_exp_tmpvar  ]  180
+mult_exp_tmpvar  ^  180
+mult_exp_tmpvar  |  180
+mult_exp_tmpvar  ||  180
+mult_exp_tmpvar  }  180
+out_content  float_const  82
+out_content  id  81
+param_decl  char  50
+param_decl  double  50
+param_decl  float  50
+param_decl  int  50
+param_decl  long  50
+param_decl  short  50
+param_decl  void  50
+param_list  char  47
+param_list  double  47
+param_list  float  47
+param_list  int  47
+param_list  long  47
+param_list  short  47
+param_list  void  47
+param_list_tmpvar  )  49
+param_list_tmpvar  ,  48
+param_type_list  char  46
+param_type_list  double  46
+param_type_list  float  46
+param_type_list  int  46
+param_type_list  long  46
+param_type_list  short  46
+param_type_list  void  46
+postfix_1  char  10
+postfix_1  double  10
+postfix_1  float  10
+postfix_1  int  10
+postfix_1  long  10
+postfix_1  short  10
+postfix_1  void  10
+postfix_1  {  11
+postfix_10  !  96
+postfix_10  &  96
+postfix_10  (  96
+postfix_10  *  96
+postfix_10  +  96
+postfix_10  ++  96
+postfix_10  -  96
+postfix_10  --  96
+postfix_10  ;  96
+postfix_10  break  96
+postfix_10  case  96
+postfix_10  char  95
+postfix_10  char_const  96
+postfix_10  cin  96
+postfix_10  continue  96
+postfix_10  cout  96
+postfix_10  default  96
+postfix_10  do  96
+postfix_10  double  95
+postfix_10  float  95
+postfix_10  float_const  96
+postfix_10  for  96
+postfix_10  goto  96
+postfix_10  id  96
+postfix_10  if  96
+postfix_10  int  95
+postfix_10  int_const  96
+postfix_10  long  95
+postfix_10  return  96
+postfix_10  short  95
+postfix_10  sizeof  96
+postfix_10  string  96
+postfix_10  switch  96
+postfix_10  void  95
+postfix_10  while  96
+postfix_10  {  96
+postfix_10  }  97
+postfix_10  ~  96
+postfix_11  !  98
+postfix_11  &  98
+postfix_11  (  98
+postfix_11  *  98
+postfix_11  +  98
+postfix_11  ++  98
+postfix_11  -  98
+postfix_11  --  98
+postfix_11  ;  98
+postfix_11  break  98
+postfix_11  case  98
+postfix_11  char_const  98
+postfix_11  cin  98
+postfix_11  continue  98
+postfix_11  cout  98
+postfix_11  default  98
+postfix_11  do  98
+postfix_11  float_const  98
+postfix_11  for  98
+postfix_11  goto  98
+postfix_11  id  98
+postfix_11  if  98
+postfix_11  int_const  98
+postfix_11  return  98
+postfix_11  sizeof  98
+postfix_11  string  98
+postfix_11  switch  98
+postfix_11  while  98
+postfix_11  {  98
+postfix_11  }  99
+postfix_11  ~  98
+postfix_12  !  106
+postfix_12  &  106
+postfix_12  (  106
+postfix_12  *  106
+postfix_12  +  106
+postfix_12  ++  106
+postfix_12  -  106
+postfix_12  --  106
+postfix_12  ;  106
+postfix_12  break  106
+postfix_12  case  106
+postfix_12  char_const  106
+postfix_12  cin  106
+postfix_12  continue  106
+postfix_12  cout  106
+postfix_12  default  106
+postfix_12  do  106
+postfix_12  else  105
+postfix_12  float_const  106
+postfix_12  for  106
+postfix_12  goto  106
+postfix_12  id  106
+postfix_12  if  106
+postfix_12  int_const  106
+postfix_12  return  106
+postfix_12  sizeof  106
+postfix_12  string  106
+postfix_12  switch  106
+postfix_12  while  106
+postfix_12  {  106
+postfix_12  }  106
+postfix_12  ~  106
+postfix_13  !  110
+postfix_13  &  110
+postfix_13  (  110
+postfix_13  *  110
+postfix_13  +  110
+postfix_13  ++  110
+postfix_13  -  110
+postfix_13  --  110
+postfix_13  char_const  110
+postfix_13  float_const  110
+postfix_13  id  110
+postfix_13  int_const  110
+postfix_13  sizeof  110
+postfix_13  string  110
+postfix_13  ~  110
+postfix_15  !  111
+postfix_15  &  111
+postfix_15  (  111
+postfix_15  *  111
+postfix_15  +  111
+postfix_15  ++  111
+postfix_15  -  111
+postfix_15  --  111
+postfix_15  char_const  111
+postfix_15  float_const  111
+postfix_15  id  111
+postfix_15  int_const  111
+postfix_15  sizeof  111
+postfix_15  string  111
+postfix_15  ~  111
+postfix_16  !  112
+postfix_16  &  112
+postfix_16  (  112
+postfix_16  *  112
+postfix_16  +  112
+postfix_16  ++  112
+postfix_16  -  112
+postfix_16  --  112
+postfix_16  char_const  112
+postfix_16  float_const  112
+postfix_16  id  112
+postfix_16  int_const  112
+postfix_16  sizeof  112
+postfix_16  string  112
+postfix_16  ~  112
+postfix_17  !  117
+postfix_17  &  117
+postfix_17  (  117
+postfix_17  *  117
+postfix_17  +  117
+postfix_17  ++  117
+postfix_17  -  117
+postfix_17  --  117
+postfix_17  ;  118
+postfix_17  char_const  117
+postfix_17  float_const  117
+postfix_17  id  117
+postfix_17  int_const  117
+postfix_17  sizeof  117
+postfix_17  string  117
+postfix_17  ~  117
+postfix_18  )  139
+postfix_18  ,  139
+postfix_18  :  139
+postfix_18  ;  139
+postfix_18  ?  138
+postfix_18  ]  139
+postfix_18  }  139
+postfix_19  !=  160
+postfix_19  ==  159
+postfix_2  (  13
+postfix_2  ;  14
+postfix_2  id  13
+postfix_20  <  164
+postfix_20  <=  166
+postfix_20  >  165
+postfix_20  >=  167
+postfix_21  <<  171
+postfix_21  >>  172
+postfix_22  +  176
+postfix_22  -  177
+postfix_23  %  183
+postfix_23  *  181
+postfix_23  /  182
+postfix_24  !  191
+postfix_24  &  191
+postfix_24  (  191
+postfix_24  *  191
+postfix_24  +  191
+postfix_24  ++  191
+postfix_24  -  191
+postfix_24  --  191
+postfix_24  char_const  191
+postfix_24  float_const  191
+postfix_24  id  191
+postfix_24  int_const  191
+postfix_24  sizeof  191
+postfix_24  string  191
+postfix_24  ~  191
+postfix_25  (  203
+postfix_25  ++  204
+postfix_25  --  205
+postfix_25  [  202
+postfix_26  !  206
+postfix_26  &  206
+postfix_26  (  206
+postfix_26  )  207
+postfix_26  *  206
+postfix_26  +  206
+postfix_26  ++  206
+postfix_26  -  206
+postfix_26  --  206
+postfix_26  char_const  206
+postfix_26  float_const  206
+postfix_26  id  206
+postfix_26  int_const  206
+postfix_26  sizeof  206
+postfix_26  string  206
+postfix_26  ~  206
+postfix_27  (  6
+postfix_27  ;  7
+postfix_27  id  6
+postfix_28  ,  9
+postfix_28  ;  9
+postfix_28  =  9
+postfix_28  char  8
+postfix_28  double  8
+postfix_28  float  8
+postfix_28  int  8
+postfix_28  long  8
+postfix_28  short  8
+postfix_28  void  8
+postfix_28  {  8
+postfix_29  !=  84
+postfix_29  %  84
+postfix_29  %=  83
+postfix_29  &  84
+postfix_29  &&  84
+postfix_29  &=  83
+postfix_29  *  84
+postfix_29  *=  83
+postfix_29  +  84
+postfix_29  +=  83
+postfix_29  ,  84
+postfix_29  -  84
+postfix_29  -=  83
+postfix_29  /  84
+postfix_29  /=  83
+postfix_29  ;  84
+postfix_29  <  84
+postfix_29  <<  84
+postfix_29  <<=  83
+postfix_29  <=  84
+postfix_29  =  83
+postfix_29  ==  84
+postfix_29  >  84
+postfix_29  >=  84
+postfix_29  >>  84
+postfix_29  >>=  83
+postfix_29  ?  84
+postfix_29  ^  84
+postfix_29  ^=  83
+postfix_29  |  84
+postfix_29  |=  83
+postfix_29  ||  84
+postfix_30  !  86
+postfix_30  &  86
+postfix_30  (  86
+postfix_30  *  86
+postfix_30  +  86
+postfix_30  ++  86
+postfix_30  -  86
+postfix_30  --  86
+postfix_30  char  85
+postfix_30  char_const  86
+postfix_30  double  85
+postfix_30  float  85
+postfix_30  float_const  86
+postfix_30  id  86
+postfix_30  int  85
+postfix_30  int_const  86
+postfix_30  long  85
+postfix_30  short  85
+postfix_30  sizeof  86
+postfix_30  string  86
+postfix_30  void  85
+postfix_30  ~  86
+postfix_31  !=  88
+postfix_31  %  88
+postfix_31  %=  88
+postfix_31  &  88
+postfix_31  &&  88
+postfix_31  &=  88
+postfix_31  (  88
+postfix_31  *  88
+postfix_31  *=  88
+postfix_31  +  88
+postfix_31  ++  88
+postfix_31  +=  88
+postfix_31  ,  88
+postfix_31  -  88
+postfix_31  --  88
+postfix_31  -=  88
+postfix_31  /  88
+postfix_31  /=  88
+postfix_31  :  87
+postfix_31  ;  88
+postfix_31  <  88
+postfix_31  <<  88
+postfix_31  <<=  88
+postfix_31  <=  88
+postfix_31  =  88
+postfix_31  ==  88
+postfix_31  >  88
+postfix_31  >=  88
+postfix_31  >>  88
+postfix_31  >>=  88
+postfix_31  ?  88
+postfix_31  [  88
+postfix_31  ^  88
+postfix_31  ^=  88
+postfix_31  |  88
+postfix_31  |=  88
+postfix_31  ||  88
+postfix_32  !=  124
+postfix_32  %  124
+postfix_32  %=  125
+postfix_32  &  124
+postfix_32  &&  124
+postfix_32  &=  125
+postfix_32  )  124
+postfix_32  *  124
+postfix_32  *=  125
+postfix_32  +  124
+postfix_32  +=  125
+postfix_32  ,  124
+postfix_32  -  124
+postfix_32  -=  125
+postfix_32  /  124
+postfix_32  /=  125
+postfix_32  :  124
+postfix_32  ;  124
+postfix_32  <  124
+postfix_32  <<  124
+postfix_32  <<=  125
+postfix_32  <=  124
+postfix_32  =  125
+postfix_32  ==  124
+postfix_32  >  124
+postfix_32  >=  124
+postfix_32  >>  124
+postfix_32  >>=  125
+postfix_32  ?  124
+postfix_32  ]  124
+postfix_32  ^  124
+postfix_32  ^=  125
+postfix_32  |  124
+postfix_32  |=  125
+postfix_32  ||  124
+postfix_32  }  124
+postfix_4  ,  30
+postfix_4  ;  30
+postfix_4  =  29
+postfix_5  )  33
+postfix_5  char  32
+postfix_5  double  32
+postfix_5  float  32
+postfix_5  int  32
+postfix_5  long  32
+postfix_5  short  32
+postfix_5  void  32
+postfix_6  (  40
+postfix_6  [  39
+postfix_7  !  41
+postfix_7  &  41
+postfix_7  (  41
+postfix_7  *  41
+postfix_7  +  41
+postfix_7  ++  41
+postfix_7  -  41
+postfix_7  --  41
+postfix_7  ]  42
+postfix_7  char_const  41
+postfix_7  float_const  41
+postfix_7  id  41
+postfix_7  int_const  41
+postfix_7  sizeof  41
+postfix_7  string  41
+postfix_7  ~  41
+postfix_8  )  45
+postfix_8  char  43
+postfix_8  double  43
+postfix_8  float  43
+postfix_8  id  44
+postfix_8  int  43
+postfix_8  long  43
+postfix_8  short  43
+postfix_8  void  43
+postfix_9  (  51
+postfix_9  )  52
+postfix_9  ,  52
+postfix_9  id  51
+postfix_exp  (  199
+postfix_exp  char_const  199
+postfix_exp  float_const  199
+postfix_exp  id  199
+postfix_exp  int_const  199
+postfix_exp  string  199
+postfix_exp_tmpvar  !=  201
+postfix_exp_tmpvar  %  201
+postfix_exp_tmpvar  %=  201
+postfix_exp_tmpvar  &  201
+postfix_exp_tmpvar  &&  201
+postfix_exp_tmpvar  &=  201
+postfix_exp_tmpvar  (  200
+postfix_exp_tmpvar  )  201
+postfix_exp_tmpvar  *  201
+postfix_exp_tmpvar  *=  201
+postfix_exp_tmpvar  +  201
+postfix_exp_tmpvar  ++  200
+postfix_exp_tmpvar  +=  201
+postfix_exp_tmpvar  ,  201
+postfix_exp_tmpvar  -  201
+postfix_exp_tmpvar  --  200
+postfix_exp_tmpvar  -=  201
+postfix_exp_tmpvar  /  201
+postfix_exp_tmpvar  /=  201
+postfix_exp_tmpvar  :  201
+postfix_exp_tmpvar  ;  201
+postfix_exp_tmpvar  <  201
+postfix_exp_tmpvar  <<  201
+postfix_exp_tmpvar  <<=  201
+postfix_exp_tmpvar  <=  201
+postfix_exp_tmpvar  =  201
+postfix_exp_tmpvar  ==  201
+postfix_exp_tmpvar  >  201
+postfix_exp_tmpvar  >=  201
+postfix_exp_tmpvar  >>  201
+postfix_exp_tmpvar  >>=  201
+postfix_exp_tmpvar  ?  201
+postfix_exp_tmpvar  [  200
+postfix_exp_tmpvar  ]  201
+postfix_exp_tmpvar  ^  201
+postfix_exp_tmpvar  ^=  201
+postfix_exp_tmpvar  |  201
+postfix_exp_tmpvar  |=  201
+postfix_exp_tmpvar  ||  201
+postfix_exp_tmpvar  }  201
+primary_exp  (  211
+primary_exp  char_const  209
+primary_exp  float_const  209
+primary_exp  id  208
+primary_exp  int_const  209
+primary_exp  string  210
+relational_exp  !  161
+relational_exp  &  161
+relational_exp  (  161
+relational_exp  *  161
+relational_exp  +  161
+relational_exp  ++  161
+relational_exp  -  161
+relational_exp  --  161
+relational_exp  char_const  161
+relational_exp  float_const  161
+relational_exp  id  161
+relational_exp  int_const  161
+relational_exp  sizeof  161
+relational_exp  string  161
+relational_exp  ~  161
+relational_exp_tmpvar  !=  163
+relational_exp_tmpvar  &  163
+relational_exp_tmpvar  &&  163
+relational_exp_tmpvar  )  163
+relational_exp_tmpvar  ,  163
+relational_exp_tmpvar  :  163
+relational_exp_tmpvar  ;  163
+relational_exp_tmpvar  <  162
+relational_exp_tmpvar  <=  162
+relational_exp_tmpvar  ==  163
+relational_exp_tmpvar  >  162
+relational_exp_tmpvar  >=  162
+relational_exp_tmpvar  ?  163
+relational_exp_tmpvar  ]  163
+relational_exp_tmpvar  ^  163
+relational_exp_tmpvar  |  163
+relational_exp_tmpvar  ||  163
+relational_exp_tmpvar  }  163
+selection_stat  if  103
+selection_stat  switch  104
+shift_expression  !  168
+shift_expression  &  168
+shift_expression  (  168
+shift_expression  *  168
+shift_expression  +  168
+shift_expression  ++  168
+shift_expression  -  168
+shift_expression  --  168
+shift_expression  char_const  168
+shift_expression  float_const  168
+shift_expression  id  168
+shift_expression  int_const  168
+shift_expression  sizeof  168
+shift_expression  string  168
+shift_expression  ~  168
+shift_expression_tmpvar  !=  170
+shift_expression_tmpvar  &  170
+shift_expression_tmpvar  &&  170
+shift_expression_tmpvar  )  170
+shift_expression_tmpvar  ,  170
+shift_expression_tmpvar  :  170
+shift_expression_tmpvar  ;  170
+shift_expression_tmpvar  <  170
+shift_expression_tmpvar  <<  169
+shift_expression_tmpvar  <=  170
+shift_expression_tmpvar  ==  170
+shift_expression_tmpvar  >  170
+shift_expression_tmpvar  >=  170
+shift_expression_tmpvar  >>  169
+shift_expression_tmpvar  ?  170
+shift_expression_tmpvar  ]  170
+shift_expression_tmpvar  ^  170
+shift_expression_tmpvar  |  170
+shift_expression_tmpvar  ||  170
+shift_expression_tmpvar  }  170
+spec_qualifier_list  char  31
+spec_qualifier_list  double  31
+spec_qualifier_list  float  31
+spec_qualifier_list  int  31
+spec_qualifier_list  long  31
+spec_qualifier_list  short  31
+spec_qualifier_list  void  31
+stat  !  70
+stat  &  70
+stat  (  65
+stat  *  70
+stat  +  70
+stat  ++  68
+stat  -  70
+stat  --  69
+stat  ;  72
+stat  break  76
+stat  case  63
+stat  char_const  66
+stat  cin  77
+stat  continue  76
+stat  cout  78
+stat  default  64
+stat  do  75
+stat  float_const  66
+stat  for  75
+stat  goto  76
+stat  id  62
+stat  if  74
+stat  int_const  66
+stat  return  76
+stat  sizeof  71
+stat  string  67
+stat  switch  74
+stat  while  75
+stat  {  73
+stat  ~  70
+stat_list  !  100
+stat_list  &  100
+stat_list  (  100
+stat_list  *  100
+stat_list  +  100
+stat_list  ++  100
+stat_list  -  100
+stat_list  --  100
+stat_list  ;  100
+stat_list  break  100
+stat_list  case  100
+stat_list  char_const  100
+stat_list  cin  100
+stat_list  continue  100
+stat_list  cout  100
+stat_list  default  100
+stat_list  do  100
+stat_list  float_const  100
+stat_list  for  100
+stat_list  goto  100
+stat_list  id  100
+stat_list  if  100
+stat_list  int_const  100
+stat_list  return  100
+stat_list  sizeof  100
+stat_list  string  100
+stat_list  switch  100
+stat_list  while  100
+stat_list  {  100
+stat_list  ~  100
+stat_list_tmpvar  !  101
+stat_list_tmpvar  &  101
+stat_list_tmpvar  (  101
+stat_list_tmpvar  *  101
+stat_list_tmpvar  +  101
+stat_list_tmpvar  ++  101
+stat_list_tmpvar  -  101
+stat_list_tmpvar  --  101
+stat_list_tmpvar  ;  101
+stat_list_tmpvar  break  101
+stat_list_tmpvar  case  101
+stat_list_tmpvar  char_const  101
+stat_list_tmpvar  cin  101
+stat_list_tmpvar  continue  101
+stat_list_tmpvar  cout  101
+stat_list_tmpvar  default  101
+stat_list_tmpvar  do  101
+stat_list_tmpvar  float_const  101
+stat_list_tmpvar  for  101
+stat_list_tmpvar  goto  101
+stat_list_tmpvar  id  101
+stat_list_tmpvar  if  101
+stat_list_tmpvar  int_const  101
+stat_list_tmpvar  return  101
+stat_list_tmpvar  sizeof  101
+stat_list_tmpvar  string  101
+stat_list_tmpvar  switch  101
+stat_list_tmpvar  while  101
+stat_list_tmpvar  {  101
+stat_list_tmpvar  }  102
+stat_list_tmpvar  ~  101
+translation_unit  (  1
+translation_unit  char  1
+translation_unit  double  1
+translation_unit  float  1
+translation_unit  id  1
+translation_unit  int  1
+translation_unit  long  1
+translation_unit  short  1
+translation_unit  void  1
+translation_unit_tmpvar  (  2
+translation_unit_tmpvar  char  2
+translation_unit_tmpvar  double  2
+translation_unit_tmpvar  float  2
+translation_unit_tmpvar  id  2
+translation_unit_tmpvar  int  2
+translation_unit_tmpvar  long  2
+translation_unit_tmpvar  short  2
+translation_unit_tmpvar  void  2
+translation_unit_tmpvar  £¤  3
+type_name  char  61
+type_name  double  61
+type_name  float  61
+type_name  int  61
+type_name  long  61
+type_name  short  61
+type_name  void  61
+type_spec  char  19
+type_spec  double  24
+type_spec  float  23
+type_spec  int  21
+type_spec  long  22
+type_spec  short  20
+type_spec  void  18
+unary_exp  !  189
+unary_exp  &  189
+unary_exp  (  186
+unary_exp  *  189
+unary_exp  +  189
+unary_exp  ++  187
+unary_exp  -  189
+unary_exp  --  188
+unary_exp  char_const  186
+unary_exp  float_const  186
+unary_exp  id  186
+unary_exp  int_const  186
+unary_exp  sizeof  190
+unary_exp  string  186
+unary_exp  ~  189
+unary_operator  !  198
+unary_operator  &  193
+unary_operator  *  194
+unary_operator  +  195
+unary_operator  -  196
+unary_operator  ~  197
+·ÇÖÕ½á·û
+
+additive_exp
+additive_exp_tmpvar
+and_exp
+and_exp_tmpvar
+argument_exp_list
+argument_exp_list_tmpvar
+assignment_exp
+assignment_operator
+cast_exp
+compound_stat
+conditional_exp
+const_exp
+const_prod
+decimal
+decl
+decl_list
+decl_list_tmpvar
+declarator
+direct_declarator
+direct_declarator_tmpvar
+equality_exp
+equality_exp_tmpvar
+exclusive_or_exp
+exclusive_or_exp_tmpvar
+exp
+exp_stat
+exp_tmpvar
+external_decl
+id_list
+id_list_tmpvar
+inclusive_or_exp
+inclusive_or_exp_tmpvar
+init_declarator
+init_declarator_list
+init_declarator_list_tmpvar
+initializer
+initializer_list
+initializer_list_tmpvar
+iteration_stat
+jump_stat
+labeled_stat
+logical_and_exp
+logical_and_exp_tmpvar
+logical_or_exp
+logical_or_exp_tmpvar
+mult_exp
+mult_exp_tmpvar
+out_content
+param_decl
+param_list
+param_list_tmpvar
+param_type_list
+postfix_1
+postfix_10
+postfix_11
+postfix_12
+postfix_13
+postfix_15
+postfix_16
+postfix_17
+postfix_18
+postfix_19
+postfix_2
+postfix_20
+postfix_21
+postfix_22
+postfix_23
+postfix_24
+postfix_25
+postfix_26
+postfix_27
+postfix_28
+postfix_29
+postfix_30
+postfix_31
+postfix_32
+postfix_4
+postfix_5
+postfix_6
+postfix_7
+postfix_8
+postfix_9
+postfix_exp
+postfix_exp_tmpvar
+primary_exp
+relational_exp
+relational_exp_tmpvar
+selection_stat
+shift_expression
+shift_expression_tmpvar
+spec_qualifier_list
+stat
+stat_list
+stat_list_tmpvar
+translation_unit
+translation_unit_tmpvar
+type_name
+type_spec
+unary_exp
+unary_operator
+ÖÕ½á·û
+
+!
+!=
+%
+%=
+&
+&&
+&=
+(
+)
+*
+*=
++
+++
++=
+,
+-
+--
+-=
+/
+/=
+:
+;
+<
+<<
+<<=
+<=
+=
+==
+>
+>=
+>>
+>>=
+?
+[
+]
+^
+^=
+break
+case
+char
+char_const
+cin
+continue
+cout
+default
+do
+double
+else
+float
+float_const
+for
+goto
+id
+if
+int
+int_const
+long
+return
+short
+sizeof
+string
+switch
+void
+while
+{
+|
+|=
+||
+}
+~
+£¤
+173  0  0  0  173  0  0  173  0  173  0  173  173  0  0  173  173  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  173  0  0  0  0  0  0  0  0  173  0  0  173  0  0  173  0  0  0  173  173  0  0  0  0  0  0  0  0  173  0  
+0  175  0  0  175  175  0  0  175  0  0  174  0  0  175  174  0  0  0  0  175  175  175  175  0  175  0  175  175  175  175  0  175  0  175  175  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  175  0  175  175  0  0  
+153  0  0  0  153  0  0  153  0  153  0  153  153  0  0  153  153  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  153  0  0  0  0  0  0  0  0  153  0  0  153  0  0  153  0  0  0  153  153  0  0  0  0  0  0  0  0  153  0  
+0  0  0  0  154  155  0  0  155  0  0  0  0  0  155  0  0  0  0  0  155  155  0  0  0  0  0  0  0  0  0  0  155  0  155  155  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  155  0  155  155  0  0  
+212  0  0  0  212  0  0  212  0  212  0  212  212  0  0  212  212  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  212  0  0  0  0  0  0  0  0  212  0  0  212  0  0  212  0  0  0  212  212  0  0  0  0  0  0  0  0  212  0  
+0  0  0  0  0  0  0  0  214  0  0  0  0  0  213  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+122  0  0  0  122  0  0  122  0  122  0  122  122  0  0  122  122  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  122  0  0  0  0  0  0  0  0  122  0  0  122  0  0  122  0  0  0  122  122  0  0  0  0  0  0  0  0  122  0  
+0  0  0  129  0  0  134  0  0  0  127  0  0  130  0  0  0  131  0  128  0  0  0  0  132  0  126  0  0  0  0  133  0  0  0  0  135  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  136  0  0  0  0  
+184  0  0  0  184  0  0  184  0  184  0  184  184  0  0  184  184  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  184  0  0  0  0  0  0  0  0  184  0  0  184  0  0  184  0  0  0  184  184  0  0  0  0  0  0  0  0  184  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  94  0  0  0  0  0  0  
+137  0  0  0  137  0  0  137  0  137  0  137  137  0  0  137  137  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  137  0  0  0  0  0  0  0  0  137  0  0  137  0  0  137  0  0  0  137  137  0  0  0  0  0  0  0  0  137  0  
+140  0  0  0  140  0  0  140  0  140  0  140  140  0  0  140  140  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  140  0  0  0  0  0  0  0  0  140  0  0  140  0  0  140  0  0  0  140  140  0  0  0  0  0  0  0  0  140  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  216  0  0  0  0  0  0  0  0  217  0  0  0  0  0  215  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  79  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  80  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  12  0  0  0  0  0  0  12  0  12  0  0  0  0  0  12  0  12  0  12  0  0  0  12  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  15  0  0  0  0  0  0  15  0  15  0  0  0  0  0  15  0  15  0  15  0  0  0  15  0  0  0  0  0  0  0  0  
+17  0  0  0  17  0  0  17  0  17  0  17  17  0  0  17  17  0  0  0  0  17  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  17  17  16  17  17  17  17  17  17  16  0  16  17  17  17  17  17  16  17  16  17  16  17  17  17  16  17  17  0  0  0  17  17  0  
+0  0  0  0  0  0  0  34  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  34  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  36  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  35  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  37  38  0  0  0  0  0  38  0  0  0  0  0  0  38  0  0  0  0  38  0  0  0  0  0  0  37  0  0  0  0  0  38  0  0  0  0  0  0  38  0  38  0  0  0  0  0  38  0  38  0  38  0  0  0  38  0  38  0  0  0  0  0  0  
+156  0  0  0  156  0  0  156  0  156  0  156  156  0  0  156  156  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  156  0  0  0  0  0  0  0  0  156  0  0  156  0  0  156  0  0  0  156  156  0  0  0  0  0  0  0  0  156  0  
+0  157  0  0  158  158  0  0  158  0  0  0  0  0  158  0  0  0  0  0  158  158  0  0  0  0  0  157  0  0  0  0  158  0  158  158  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  158  0  158  158  0  0  
+150  0  0  0  150  0  0  150  0  150  0  150  150  0  0  150  150  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  150  0  0  0  0  0  0  0  0  150  0  0  150  0  0  150  0  0  0  150  150  0  0  0  0  0  0  0  0  150  0  
+0  0  0  0  0  152  0  0  152  0  0  0  0  0  152  0  0  0  0  0  152  152  0  0  0  0  0  0  0  0  0  0  152  0  152  151  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  152  0  152  152  0  0  
+119  0  0  0  119  0  0  119  0  119  0  119  119  0  0  119  119  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  119  0  0  0  0  0  0  0  0  119  0  0  119  0  0  119  0  0  0  119  119  0  0  0  0  0  0  0  0  119  0  
+92  0  0  0  92  0  0  92  0  92  0  92  92  0  0  92  92  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  92  0  0  0  0  0  0  0  0  92  0  0  92  0  0  92  0  0  0  92  92  0  0  0  0  0  0  0  0  92  0  
+0  0  0  0  0  0  0  0  121  0  0  0  0  0  120  0  0  0  0  0  121  121  0  0  0  0  0  0  0  0  0  0  0  0  121  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  5  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  4  0  0  0  0  0  0  4  0  4  0  0  0  5  0  4  0  4  0  4  0  0  0  4  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  53  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  55  0  0  0  0  0  54  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+147  0  0  0  147  0  0  147  0  147  0  147  147  0  0  147  147  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  147  0  0  0  0  0  0  0  0  147  0  0  147  0  0  147  0  0  0  147  147  0  0  0  0  0  0  0  0  147  0  
+0  0  0  0  0  149  0  0  149  0  0  0  0  0  149  0  0  0  0  0  149  149  0  0  0  0  0  0  0  0  0  0  149  0  149  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  148  0  149  149  0  0  
+0  0  0  0  0  0  0  28  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  28  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  25  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  25  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  26  0  0  0  0  0  0  27  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+56  0  0  0  56  0  0  56  0  56  0  56  56  0  0  56  56  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  56  0  0  0  0  0  0  0  0  56  0  0  56  0  0  56  0  0  0  56  56  0  0  0  57  0  0  0  0  56  0  
+58  0  0  0  58  0  0  58  0  58  0  58  58  0  0  58  58  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  58  0  0  0  0  0  0  0  0  58  0  0  58  0  0  58  0  0  0  58  58  0  0  0  58  0  0  0  0  58  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  59  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  60  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  108  0  0  0  0  109  0  0  0  0  0  0  0  0  0  0  0  0  107  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  115  0  0  0  0  114  0  0  0  0  0  0  0  0  113  0  0  0  0  0  116  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  90  0  0  0  0  0  91  0  0  0  0  0  0  0  89  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+144  0  0  0  144  0  0  144  0  144  0  144  144  0  0  144  144  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  144  0  0  0  0  0  0  0  0  144  0  0  144  0  0  144  0  0  0  144  144  0  0  0  0  0  0  0  0  144  0  
+0  0  0  0  0  145  0  0  146  0  0  0  0  0  146  0  0  0  0  0  146  146  0  0  0  0  0  0  0  0  0  0  146  0  146  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  146  146  0  0  
+141  0  0  0  141  0  0  141  0  141  0  141  141  0  0  141  141  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  141  0  0  0  0  0  0  0  0  141  0  0  141  0  0  141  0  0  0  141  141  0  0  0  0  0  0  0  0  141  0  
+0  0  0  0  0  0  0  0  143  0  0  0  0  0  143  0  0  0  0  0  143  143  0  0  0  0  0  0  0  0  0  0  143  0  143  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  142  143  0  0  
+178  0  0  0  178  0  0  178  0  178  0  178  178  0  0  178  178  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  178  0  0  0  0  0  0  0  0  178  0  0  178  0  0  178  0  0  0  178  178  0  0  0  0  0  0  0  0  178  0  
+0  180  179  0  180  180  0  0  180  179  0  180  0  0  180  180  0  0  179  0  180  180  180  180  0  180  0  180  180  180  180  0  180  0  180  180  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  180  0  180  180  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  82  0  0  81  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  50  0  0  0  0  0  0  50  0  50  0  0  0  0  0  50  0  50  0  50  0  0  0  50  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  47  0  0  0  0  0  0  47  0  47  0  0  0  0  0  47  0  47  0  47  0  0  0  47  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  49  0  0  0  0  0  48  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  46  0  0  0  0  0  0  46  0  46  0  0  0  0  0  46  0  46  0  46  0  0  0  46  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  10  0  0  0  0  0  0  10  0  10  0  0  0  0  0  10  0  10  0  10  0  0  0  10  0  11  0  0  0  0  0  0  
+96  0  0  0  96  0  0  96  0  96  0  96  96  0  0  96  96  0  0  0  0  96  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  96  96  95  96  96  96  96  96  96  95  0  95  96  96  96  96  96  95  96  95  96  95  96  96  96  95  96  96  0  0  0  97  96  0  
+98  0  0  0  98  0  0  98  0  98  0  98  98  0  0  98  98  0  0  0  0  98  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  98  98  0  98  98  98  98  98  98  0  0  0  98  98  98  98  98  0  98  0  98  0  98  98  98  0  98  98  0  0  0  99  98  0  
+106  0  0  0  106  0  0  106  0  106  0  106  106  0  0  106  106  0  0  0  0  106  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  106  106  0  106  106  106  106  106  106  0  105  0  106  106  106  106  106  0  106  0  106  0  106  106  106  0  106  106  0  0  0  106  106  0  
+110  0  0  0  110  0  0  110  0  110  0  110  110  0  0  110  110  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  110  0  0  0  0  0  0  0  0  110  0  0  110  0  0  110  0  0  0  110  110  0  0  0  0  0  0  0  0  110  0  
+111  0  0  0  111  0  0  111  0  111  0  111  111  0  0  111  111  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  111  0  0  0  0  0  0  0  0  111  0  0  111  0  0  111  0  0  0  111  111  0  0  0  0  0  0  0  0  111  0  
+112  0  0  0  112  0  0  112  0  112  0  112  112  0  0  112  112  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  112  0  0  0  0  0  0  0  0  112  0  0  112  0  0  112  0  0  0  112  112  0  0  0  0  0  0  0  0  112  0  
+117  0  0  0  117  0  0  117  0  117  0  117  117  0  0  117  117  0  0  0  0  118  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  117  0  0  0  0  0  0  0  0  117  0  0  117  0  0  117  0  0  0  117  117  0  0  0  0  0  0  0  0  117  0  
+0  0  0  0  0  0  0  0  139  0  0  0  0  0  139  0  0  0  0  0  139  139  0  0  0  0  0  0  0  0  0  0  138  0  139  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  139  0  0  
+0  160  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  159  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  13  0  0  0  0  0  0  0  0  0  0  0  0  0  14  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  13  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  164  0  0  166  0  0  165  167  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  171  0  0  0  0  0  0  172  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  176  0  0  0  177  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  183  0  0  0  0  0  0  181  0  0  0  0  0  0  0  0  182  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+191  0  0  0  191  0  0  191  0  191  0  191  191  0  0  191  191  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  191  0  0  0  0  0  0  0  0  191  0  0  191  0  0  191  0  0  0  191  191  0  0  0  0  0  0  0  0  191  0  
+0  0  0  0  0  0  0  203  0  0  0  0  204  0  0  0  205  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  202  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+206  0  0  0  206  0  0  206  207  206  0  206  206  0  0  206  206  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  206  0  0  0  0  0  0  0  0  206  0  0  206  0  0  206  0  0  0  206  206  0  0  0  0  0  0  0  0  206  0  
+0  0  0  0  0  0  0  6  0  0  0  0  0  0  0  0  0  0  0  0  0  7  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  6  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  9  0  0  0  0  0  0  9  0  0  0  0  9  0  0  0  0  0  0  0  0  0  0  0  0  8  0  0  0  0  0  0  8  0  8  0  0  0  0  0  8  0  8  0  8  0  0  0  8  0  8  0  0  0  0  0  0  
+0  84  84  83  84  84  83  0  0  84  83  84  0  83  84  84  0  83  84  83  0  84  84  84  83  84  83  84  84  84  84  83  84  0  0  84  83  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  84  83  84  0  0  0  
+86  0  0  0  86  0  0  86  0  86  0  86  86  0  0  86  86  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  85  86  0  0  0  0  0  85  0  85  86  0  0  86  0  85  86  85  0  85  86  86  0  85  0  0  0  0  0  0  86  0  
+0  88  88  88  88  88  88  88  0  88  88  88  88  88  88  88  88  88  88  88  87  88  88  88  88  88  88  88  88  88  88  88  88  88  0  88  88  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  88  88  88  0  0  0  
+0  124  124  125  124  124  125  0  124  124  125  124  0  125  124  124  0  125  124  125  124  124  124  124  125  124  125  124  124  124  124  125  124  0  124  124  125  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  124  125  124  124  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  30  0  0  0  0  0  0  30  0  0  0  0  29  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  33  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  32  0  0  0  0  0  0  32  0  32  0  0  0  0  0  32  0  32  0  32  0  0  0  32  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  40  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  39  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+41  0  0  0  41  0  0  41  0  41  0  41  41  0  0  41  41  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  42  0  0  0  0  0  41  0  0  0  0  0  0  0  0  41  0  0  41  0  0  41  0  0  0  41  41  0  0  0  0  0  0  0  0  41  0  
+0  0  0  0  0  0  0  0  45  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  43  0  0  0  0  0  0  43  0  43  0  0  0  44  0  43  0  43  0  43  0  0  0  43  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  51  52  0  0  0  0  0  52  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  51  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  199  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  199  0  0  0  0  0  0  0  0  199  0  0  199  0  0  199  0  0  0  0  199  0  0  0  0  0  0  0  0  0  0  
+0  201  201  201  201  201  201  200  201  201  201  201  200  201  201  201  200  201  201  201  201  201  201  201  201  201  201  201  201  201  201  201  201  200  201  201  201  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  201  201  201  201  0  0  
+0  0  0  0  0  0  0  211  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  209  0  0  0  0  0  0  0  0  209  0  0  208  0  0  209  0  0  0  0  210  0  0  0  0  0  0  0  0  0  0  
+161  0  0  0  161  0  0  161  0  161  0  161  161  0  0  161  161  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  161  0  0  0  0  0  0  0  0  161  0  0  161  0  0  161  0  0  0  161  161  0  0  0  0  0  0  0  0  161  0  
+0  163  0  0  163  163  0  0  163  0  0  0  0  0  163  0  0  0  0  0  163  163  162  0  0  162  0  163  162  162  0  0  163  0  163  163  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  163  0  163  163  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  103  0  0  0  0  0  0  0  104  0  0  0  0  0  0  0  0  0  
+168  0  0  0  168  0  0  168  0  168  0  168  168  0  0  168  168  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  168  0  0  0  0  0  0  0  0  168  0  0  168  0  0  168  0  0  0  168  168  0  0  0  0  0  0  0  0  168  0  
+0  170  0  0  170  170  0  0  170  0  0  0  0  0  170  0  0  0  0  0  170  170  170  169  0  170  0  170  170  170  169  0  170  0  170  170  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  170  0  170  170  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  31  0  0  0  0  0  0  31  0  31  0  0  0  0  0  31  0  31  0  31  0  0  0  31  0  0  0  0  0  0  0  0  
+70  0  0  0  70  0  0  65  0  70  0  70  68  0  0  70  69  0  0  0  0  72  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  76  63  0  66  77  76  78  64  75  0  0  0  66  75  76  62  74  0  66  0  76  0  71  67  74  0  75  73  0  0  0  0  70  0  
+100  0  0  0  100  0  0  100  0  100  0  100  100  0  0  100  100  0  0  0  0  100  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  100  100  0  100  100  100  100  100  100  0  0  0  100  100  100  100  100  0  100  0  100  0  100  100  100  0  100  100  0  0  0  0  100  0  
+101  0  0  0  101  0  0  101  0  101  0  101  101  0  0  101  101  0  0  0  0  101  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  101  101  0  101  101  101  101  101  101  0  0  0  101  101  101  101  101  0  101  0  101  0  101  101  101  0  101  101  0  0  0  102  101  0  
+0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  1  0  1  0  0  0  1  0  1  0  1  0  1  0  0  0  1  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  0  2  0  2  0  2  0  0  0  2  0  0  0  0  0  0  0  3  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  61  0  0  0  0  0  0  61  0  61  0  0  0  0  0  61  0  61  0  61  0  0  0  61  0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  19  0  0  0  0  0  0  24  0  23  0  0  0  0  0  21  0  22  0  20  0  0  0  18  0  0  0  0  0  0  0  0  
+189  0  0  0  189  0  0  186  0  189  0  189  187  0  0  189  188  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  186  0  0  0  0  0  0  0  0  186  0  0  186  0  0  186  0  0  0  190  186  0  0  0  0  0  0  0  0  189  0  
+198  0  0  0  193  0  0  0  0  194  0  195  0  0  0  196  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  197  0  

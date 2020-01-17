@@ -1,0 +1,12 @@
+此处为优化四元式:
+(fun_do main _ 1)
+(shl 3 2 a)
+(shr 16 1 b)
+(% b 6 c)
+(+ a b t4)
+(- t4 c t5)
+(* 3 t5 t6)
+(/ t6 6 t7)
+(% t7 4 c)
+(cout 10 _ c)
+(end _ _ main)
